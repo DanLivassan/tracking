@@ -1,0 +1,12 @@
+[21-Oct-2015 16:03:14 UTC] PHP Fatal error:  Class 'HTML' not found in /home/facil496/laravel/storage/framework/views/a0702d1a092d9f4221b8339406871233 on line 2
+[21-Oct-2015 16:08:43 UTC] PHP Fatal error:  Class 'HTML' not found in /home/facil496/laravel/storage/framework/views/a0702d1a092d9f4221b8339406871233 on line 2
+[21-Oct-2015 16:08:44 UTC] PHP Fatal error:  Class 'HTML' not found in /home/facil496/laravel/storage/framework/views/a0702d1a092d9f4221b8339406871233 on line 2
+[22-Oct-2015 07:52:22 America/Chicago] PHP Warning:  require(/home/facil496/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/facil496/public_html/index.php on line 22
+[22-Oct-2015 07:52:22 America/Chicago] PHP Warning:  require(/home/facil496/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/facil496/public_html/index.php on line 22
+[22-Oct-2015 07:52:22 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/facil496/public_html/../laravel/bootstrap/autoload.php' (include_path='.:/opt/php55/lib/php') in /home/facil496/public_html/index.php on line 22
+[22-Oct-2015 07:52:29 America/Chicago] PHP Warning:  require(/home/facil496/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/facil496/public_html/index.php on line 22
+[22-Oct-2015 07:52:29 America/Chicago] PHP Warning:  require(/home/facil496/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/facil496/public_html/index.php on line 22
+[22-Oct-2015 07:52:29 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/facil496/public_html/../laravel/bootstrap/autoload.php' (include_path='.:/opt/php55/lib/php') in /home/facil496/public_html/index.php on line 22
+[22-Oct-2015 07:53:30 America/Chicago] PHP Warning:  require(/home/facil496/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/facil496/public_html/index.php on line 22
+[22-Oct-2015 07:53:30 America/Chicago] PHP Warning:  require(/home/facil496/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/facil496/public_html/index.php on line 22
+[22-Oct-2015 07:53:30 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/facil496/public_html/../laravel/bootstrap/autoload.php' (include_path='.:/opt/php55/lib/php') in /home/facil496/public_html/index.php on line 22

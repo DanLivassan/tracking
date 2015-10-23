@@ -1,0 +1,50 @@
+
+
+body{
+	margin: 0px;	
+	height: 400px;
+}
+
+header{
+	background: #aaFFbc;
+	height: 40px;
+	width: 100%;
+	vertical-align: middle;
+	margin: 0 auto;
+	padding: 0;
+	top: 0;
+}
+#check_user{
+	display: none;
+}
+
+.app_name{
+
+}
+
+.user_name{
+
+}
+
+.user_name img{
+	
+}
+
+.user_name ul{
+	list-style: none;
+	background: #ffbbaa;
+	width: 20%;
+}
+.user_name ul li:hover{
+	list-style: none;
+	background: #ffbbaa;
+	width: 20%;
+}
+
+.logout{
+
+}
+
+.perfil{
+
+}
