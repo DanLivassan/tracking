@@ -30,6 +30,7 @@
 	</div>
 
 	<div id="footer">
+		hahaha
 		&copy; FacilitiDev {{ date('Y') }}
 	</div>
 </body>
